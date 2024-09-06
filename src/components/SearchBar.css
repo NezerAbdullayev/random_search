@@ -1,0 +1,13 @@
+.search_bar {
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+.search_bar from {
+  display: flex;
+  flex-direction: column;
+}
